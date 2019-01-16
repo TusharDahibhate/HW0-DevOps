@@ -4,7 +4,7 @@ This file will describe the deliverables for the Homework 0.
 
 
 
-### Basic course setup (10)
+## Basic course setup (10)
 * GitHub Profile : https://github.ncsu.edu/tdahibh
 
 * Stack Overflow profile : https://stackoverflow.com/users/10903013/tushar-himmat-dahibhate
@@ -16,25 +16,25 @@ This file will describe the deliverables for the Homework 0.
 
 * HW0-App Repository : https://github.ncsu.edu/tdahibh/HW0-App
 
-### Opunit checks
+## Opunit checks
 
-#### Opunit profile check
+### Opunit profile check
 
 ```bash
 $ opunit profile CSC-DevOps/profile:519.yml
 
 ```
-##### Screenshot: 
+#### Screenshot: 
 
 ![magic](img/opunit-profile.png)
 
-#### Opunit local verification
+### Opunit local verification
 
 ```bash
 $ opunit verify local
 ```
 
-##### Screenshot: 
+#### Screenshot: 
 
 ![magic](img/opunit-verify.png)
 
