@@ -6,7 +6,7 @@
 This file will describe the deliverables for Homework 0.
 
 
-## Basic course setup (10)
+## Basic course setup 
 * GitHub Profile : https://github.ncsu.edu/tdahibh
 
 * Stack Overflow profile : https://stackoverflow.com/users/10903013/tushar-himmat-dahibhate
